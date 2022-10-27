@@ -1,0 +1,10 @@
+.ststic_list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 18px;
+}
+
+.number {
+  font-weight: 600;
+}
